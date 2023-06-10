@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Madhav Gupta</h1>
 <h3 align="center">An ambitious, aspiring full-stack web developer</h3>
 
-- 🔭 I’m currently working on **online journal system**
+- 🔭 I’m currently working on **an online journal system**
 
-- 🌱 I’m currently learning **NodeJS, MongoDB, other back-end developer tools**
+- 🌱 I’m currently learning **NodeJS, MongoDB, other back-end development tools**
 
 - 💬 Ask me about **HTML, CSS, Python**
 
