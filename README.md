@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/17WbMv-m6zllH7CAy-fvZZaE6uYljP71r/edit?usp=sharing&ouid=116483838466419895895&rtpof=true&sd=true](https://docs.google.com/document/d/17WbMv-m6zllH7CAy-fvZZaE6uYljP71r/edit?usp=sharing&ouid=116483838466419895895&rtpof=true&sd=true)
 
-- ⚡ Fun fact **I have a typing speed of 78 words per minute, thus explaining my love for coding non-stop**
+- ⚡ Fun fact **I have a typing speed of almost 80 words per minute, thus explaining my love for coding non-stop**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
