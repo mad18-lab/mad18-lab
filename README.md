@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Madhav Gupta</h1>
-<h3 align="center">An ambitious, aspiring full-stack web developer</h3>
+<h3 align="center">An ambitious, aspiring full-stack developer</h3>
 
-- 🔭 I’m currently working on **an online journal system**
+- 🔭 I’m currently working on **a React.js based two-player clicking game**
 
-- 🌱 I’m currently learning **NodeJS, MongoDB, other back-end development tools**
+- 🌱 I’m currently learning **Angular.js and TailwindCSS**
 
-- 💬 Ask me about **HTML, CSS, Python**
+- 💬 Ask me about **MERN Stack**
 
-- 📫 How to reach me **guptamadhav69@gmail.com**
+- 📫 How to reach me **guptamadhav69@gmail.com/madhavgupta137@gmail.com**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/17WbMv-m6zllH7CAy-fvZZaE6uYljP71r/edit?usp=sharing&ouid=116483838466419895895&rtpof=true&sd=true](https://docs.google.com/document/d/17WbMv-m6zllH7CAy-fvZZaE6uYljP71r/edit?usp=sharing&ouid=116483838466419895895&rtpof=true&sd=true)
 
-- ⚡ Fun fact **I have a typing speed of almost 80 words per minute, thus explaining my love for coding non-stop**
+- ⚡ Fun fact **I have a typing speed of almost 93 words per minute, thus explaining my love for coding non-stop**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
