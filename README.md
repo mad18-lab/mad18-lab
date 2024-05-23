@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **guptamadhav69@gmail.com/madhavgupta137@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/17WbMv-m6zllH7CAy-fvZZaE6uYljP71r/edit?usp=sharing&ouid=116483838466419895895&rtpof=true&sd=true](https://docs.google.com/document/d/17WbMv-m6zllH7CAy-fvZZaE6uYljP71r/edit?usp=sharing&ouid=116483838466419895895&rtpof=true&sd=true)
+- 📄 Know about my experiences [https://docs.google.com/document/d/17WbMv-m6zllH7CAy-fvZZaE6uYljP71r/edit?usp=sharing&ouid=116483838466419895895&rtpof=true&sd=true](https://drive.google.com/file/d/12biJx36OrsyKoSOXZJPwMWeNEoWIzDQr/view?usp=drive_link))
 
 - ⚡ Fun fact **I have a typing speed of almost 93 words per minute, thus explaining my love for coding non-stop**
 
