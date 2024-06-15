@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mad18-lab" alt="mad18-lab" /></a> </p>
 
-- 🔭 I’m currently working on **a React.js based two-player clicking game**
+- 🔭 I’m currently working on **a React YouTube clone**
 
-- 🌱 I’m currently learning **Angular and TailwindCSS**
+- 🌱 I’m currently learning **Next.js**
 
 - 💬 Ask me about **MERN Stack!**
 
